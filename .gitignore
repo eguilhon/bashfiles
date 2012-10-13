@@ -1,0 +1,11 @@
+*.DS_Store
+*._AppleDouble
+*.Spotlight-V100
+*.Trashes
+*.[Tt]humb
+*.svn
+*.hg
+*.pyc
+*.lock
+*.swp
+*.out
